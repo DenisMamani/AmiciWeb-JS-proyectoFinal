@@ -1,0 +1,44 @@
+[
+    {
+       "id": 1,
+        "ubicacion":"Bajo Palermo",
+        "precio": 30000,
+        "descrip":"Al ingresar a la casa hay un amplio comedor. Cuenta con cocina separada, living, Patío Quincho, Pileta, Baño de suite y no menos importante cuenta con 3 dormitorios y un Garage.",
+        "img": "casa3.jpg"
+    },
+    {
+        "id": 2,
+         "ubicacion":"Córdoba",
+         "precio": 76000,
+         "descrip": "Imponente casa de diseño moderno. Gran cocina muy bien equipada. Lavadero y espacio para escritorio/ playroom. Dependencia de servicio y su baño completo. Living comedor con enormes ventanales. ",
+         "img": "casa1.jpg"
+     },
+     {
+        "id": 3,
+         "ubicacion": "Morón",
+         "precio": 50000,
+         "descrip": "Muy buena casa, Super cuidada! en frente tiene entrada propia para un auto. Al ingresar a la casa hay un amplio y luminoso living comedor. Amplio baño completo. Excelente estado de conservacion.! ",
+         "img": "casa2.jpg"
+     },
+     {
+        "id": 4,
+         "ubicacion":"Dardo Rocha",
+         "precio":60000,
+         "descrip":"Acogedora y muy luminosa, comedor separado, cocina con mucho lugar de guardado, dos amplios dormitorios, el principal con doble placar y el segundo dormitorio con acceso a un escritorio y patio interno.",
+         "img":"propiedad4.jpg"
+     },
+     {
+        "id": 5,
+         "ubicacion":"Horacio Julian",
+         "precio":55000,
+         "descrip":"Chalet colonial de 3 ambientes, cuenta con living comedor de 4x5, cocina separada, baño completo, 2 dormitorios con placard y pisos parquet, en buenas condiciones, entrada de auto y jardin al frente. ",
+         "img": "propiedad5.jpg"
+     },
+     {
+        "id": 6,
+         "ubicacion": "Perez Millán",
+         "precio": 45000,
+         "descrip": "Hogar para la familia.Cuenta con 3 dormitorios, dos baños, living, cocina-comedor y cochera doble. Baño completo con ventana al exterior. Calefacción Picos de gas en buenas condiciones.",
+         "img":"propiedad6.jpg"
+     }
+]
